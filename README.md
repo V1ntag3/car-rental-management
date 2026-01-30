@@ -124,7 +124,5 @@ O sistema possui exceções personalizadas para garantir a integridade dos dados
 - Herança
 - Coleções Java
 - Exceções Personalizadas
-
-Separação de Responsabilidades
-
-Boas Práticas de POO
+- Separação de Responsabilidades
+- Boas Práticas de POO
